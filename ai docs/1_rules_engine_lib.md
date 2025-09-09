@@ -1,39 +1,3 @@
-I'll analyze the Rules Engine library in detail to explain its architecture, patterns, and how it provides business rule management across the entire application.
-
-
-
-[4 tools called]
-
-Now let me examine the core rule components and patterns:
-
-
-[5 tools called]
-
-Now let me examine some specific rule implementations:
-
-
-[2 tools called]
-
-Now let me examine the validation context and service components:
-
-
-[2 tools called]
-
-Now let me examine how the rules engine is used in the application:
-
-
-[1 tool called]
-
-Now let me examine the enums and constants:
-
-
-[3 tools called]
-
-Now let me examine how the rules engine integrates with the foundation library:
-
-
-[1 tool called]
-
 # 🔍 **Detailed Analysis: Rules Engine Library Architecture**
 
 Based on my comprehensive analysis, here's a detailed explanation of the Rules Engine library, its patterns, and how it provides sophisticated business rule validation across the entire application.

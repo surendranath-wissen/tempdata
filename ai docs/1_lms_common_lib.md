@@ -1,38 +1,3 @@
-I'll analyze the LMS-Common library in detail to explain its architecture, patterns, and how it provides shared domain models and common functionality across the entire application.
-
-
-[3 tools called]
-
-Now let me examine the domain models:
-
-
-[8 tools called]
-
-Now let me examine how the LMS-Common library is used throughout the application:
-
-
-[1 tool called]
-
-Now let me search for specific model usage:
-
-
-[1 tool called]
-
-Now let me examine specific component usage:
-
-
-[2 tools called]
-
-Now let me examine how the models are used in business services:
-
-
-[2 tools called]
-
-Now let me examine the package.json and configuration files:
-
-
-[3 tools called]
-
 # 🔍 **Detailed Analysis: LMS-Common Library Architecture**
 
 Based on my comprehensive analysis, here's a detailed explanation of the LMS-Common library, its architecture, patterns, and how it provides shared domain models and common functionality across the entire application.
